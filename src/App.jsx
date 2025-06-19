@@ -5,7 +5,7 @@ import './App.css'
 import img_1 from "./assets/IMG_20250610_161828_327.jpg"
 import img_work_1 from "./assets/work1.png"
 import img_work_2 from "./assets/work2.png"
-import img_work_3 from "./assets/work3.png"
+import img_work_3 from "./assets/work3.PNG"
 import img_work_4 from "./assets/work4.png"
 import img_work_5 from "./assets/work5.png"
 
